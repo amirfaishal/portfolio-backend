@@ -1,5 +1,5 @@
 {
-  "name": "chatbot-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Node.js backend calling Hugging Face API for resume QA chatbot",
   "main": "server.js",
