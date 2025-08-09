@@ -1,0 +1,64 @@
+Amir Faishal  
+Bhawanipatna | amirfaishal484@gcekbpatna.ac.in | +91 6372440443 | linkedin.com/in/amirfaishal  
+github.com/amir484  
+
+Profile Summary  
+Enthusiastic software developer with a strong foundation in web and mobile app development. Proficient in modern programming languages and frameworks, with a drive to learn, adapt, and deliver innovative solutions in a collaborative environment.
+
+Technical Skills  
+• Programming Languages: Java, C, Python, JavaScript, Solidity  
+• Web Development: HTML5, CSS3, React.js, Node.js, Express.js  
+• Mobile App Development: Android Studio  
+• Databases: MySQL, MongoDB, Firebase  
+• Tools & Platforms: Git, GitHub, VS Code, Remix  
+• Methodologies: Agile Development, RESTful API Integration  
+
+Education  
+Government College of Engineering, Kalahandi  
+B.Tech in Computer Science and Engineering (Dec 2022 – June 2026)  
+• CGPA: 8.62  
+• Coursework: Data Structures and Algorithms, AI and ML, DBMS  
+
+Experience  
+
+Backend and Blockchain Developer  
+Debadarsan Consultancy Pvt Ltd – STPI, Bhubaneswar  
+June 1, 2025 – July 31, 2025  
+• Designed and developed backend services for a carbon credit trading platform using Node.js and Express.  
+• Created and deployed smart contracts on Ethereum and Polygon networks for secure carbon credit tokenization and transactions.  
+• Built RESTful APIs and microservices to enable seamless interaction between web/mobile applications and blockchain networks.  
+• Implemented database structures using MongoDB and PostgreSQL for efficient storage and management of transaction and user data.  
+
+React Developer Intern  
+Webdzen Technologies  
+July 21, 2025 – September 21, 2025  
+• Contributed to the development of a task management web application using React.js, ensuring smooth user experience and modular architecture.  
+• Set up project folder structures and integrated various application modules to streamline development workflows.  
+• Developed and managed backend services using Firebase for real-time data storage, authentication, and deployment.  
+• Collaborated with the team to integrate APIs and enhance app functionality across multiple modules.  
+
+Projects  
+
+Carbon Credit Trading Platform | Blockchain, Backend Development  
+June 1, 2025 – July 31, 2025  
+• Built a blockchain-based platform for tokenizing and trading carbon credits using Ethereum and Polygon smart contracts.  
+• Designed and developed backend services with Node.js and Express, integrating RESTful APIs with blockchain modules.  
+• Managed database operations using MongoDB and PostgreSQL for secure storage of transaction and user data.  
+
+Task Management Web Application | Web Development  
+July 21, 2025 – September 21, 2025  
+• Developed a task management web application using React.js, focusing on modular folder structures and clean code practices.  
+• Implemented backend services using Firebase for real-time database, authentication, and hosting.  
+• Integrated APIs and enhanced functionality to improve task tracking and team collaboration features.  
+
+College Digital Notice Board App | Mobile Web Development  
+February 2024 – April 2024  
+• Built a fully functional digital notice board application for college using React.js and Flutter, integrated with Firebase backend.  
+• Implemented features like real-time notifications, role-based access for admins/students, and media upload for notices.  
+• Designed a clean and responsive UI to ensure smooth accessibility across web and mobile platforms.  
+
+Sentiment Analysis of Text | Machine Learning  
+November 2023 – January 2024  
+• Developed an ML model for sentiment classification of text using Python, scikit-learn, and NLTK.  
+• Preprocessed datasets with tokenization, lemmatization, and TF-IDF vectorization to enhance model performance.  
+• Achieved high accuracy in classifying sentiments (positive/negative/neutral) and deployed the model as an API for integration with web apps.
